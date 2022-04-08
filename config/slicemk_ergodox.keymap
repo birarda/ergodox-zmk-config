@@ -15,9 +15,9 @@
     &kp TAB    &kp A      &kp S      &kp D      &kp F      &kp G                            &kp H      &kp J      &kp K      &kp L      &kp SCLN   &kp SQT
     &kp LSHFT  &kp Z      &kp X      &kp C      &kp V      &kp B      &kp M_VOLD &kp M_VOLU &kp N      &kp M      &kp CMMA   &kp DOT    &kp FSLH   &kp RSHFT
     &kp LCTRL  &kp GRAV   &kp LALT   &kp LARW   &kp DARW                                               &kp LARW   &kp DARW   &kp UARW   &kp RARW   &kp RCTRL
-                                                           &kp LGUI   &kp LALT   &kp HOME    &kp INS
+                                                           &kp DEL    &kp LALT   &kp HOME    &kp INS
                                                                       &kp HOME   &kp PG_UP
-                                                &kp BSPC   &kp DEL                          &kp RET    &kp SPC
+                                                &kp BSPC   &kp LGUI                          &kp RET    &kp SPC
                                                                       &kp END    &kp PG_DN
                         >;
                 };
